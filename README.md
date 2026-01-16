@@ -11,4 +11,5 @@ A responsive personal portfolio built with HTML, CSS, and JavaScript.
 HTML, CSS, JavaScript
 
 ## Live Demo
+https://farhankhan-portfolio.netlify.app/
 
